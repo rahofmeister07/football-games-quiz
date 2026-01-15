@@ -8,4 +8,4 @@ This repository contains a small C project from a quiz in my class.
 - Demonstrates arrays, loops, and switch statements
 
 ### How to Run
-Compile the program using any C compiler, then run the resulting executable.
+This project was written in C and can be compiled using `gcc`.
